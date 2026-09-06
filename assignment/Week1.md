@@ -201,10 +201,16 @@
 
 ## 02-4. 엑셀 데이터 가공을 위한 텍스트 나누고 합치기
 > **여러 줄을 한 줄로 합치거나 한 줄을 여러 줄로 분리하기(104 ~107p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="1661" height="886" alt="image" src="https://github.com/user-attachments/assets/6b9fb219-7775-47bf-913f-eaab7e41ae21" />
+
+<img width="1532" height="815" alt="image" src="https://github.com/user-attachments/assets/641708b4-12b0-4445-bfa0-cc0096fa7df0" />
+
 
 > **여러 열에 입력된 내용을 간단하게 한 열로 합치기(108 ~109p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="1416" height="805" alt="image" src="https://github.com/user-attachments/assets/8c34fdcd-5619-470f-baf3-e79715d0be47" />
+
 
 ---
 
