@@ -80,6 +80,53 @@
 > **이번에 배운 단축키에 대해 정리해주세요.**
 <!-- 여기에 정리해주세요. -->
 
+#### ctrl 단축키
+
+- ctrl + s : 파일 저장
+- ctrl + n : 새로운 통합 문서
+- ctrl + tab : 통합 문서 간 이동
+- Ctrl + PageUp/PageDown, Ctrl + Shift + PageUp/PageDown : 시트 이동 및 선택
+다중 선택 시 shift 이용
+- Ctrl + 마우스 휠 : 화면 배율 조절
+- Ctrl + p : 인쇄 미리보기
+- Ctrl + F1 : 리본 메뉴 숨기
+- Ctrl + Shift + U : 수식 입력 줄 확장 
+- Ctrl + Shift + L : 자동 필터 적용
+- Ctrl + \, Ctrl + Shift + 선 : 기준 행/열의 값과 다른 값 선택
+- Ctrl + [ : 수식에 사용된 셀 선택
+- Ctrl + A : 연속된 범위 선택
+- Ctrl + F, Ctrl + H : 찾기 및 바꾸
+- F4 : 이전 작업 반복
+- F2 : 활성화 된 셀 즉시 편집
+- Ctrl + z, Ctrl + y : 작업 실행 취소, 다시 실행
+- Ctrl + Enter + 선택된 범위에 값을 한 번에 입력
+- Ctrl + +, Ctrl + - : 새로운 행 열 셀 추가/삭
+- Ctrl + D, Ctrl + R  : 선택된 범위의 첫 번째 값으로 자동 채우기
+- Ctrl + E : 빠른 채우기
+- Ctrl + 1 : 셀 서식 대화상자 열기
+- Ctrl + shift + 7 : 선택된 범위 바깥쪽에만 테두리 적용
+- Ctrl + shift + 1,2,3,4,5,6 : 일반, 숫자, 시간, 날짜, 통화, 백분율, 지수
+- Ctrl + 방향키 : 범위의 마지막 셀로 이동
+- Ctrl + shift + 방향키 : 표의 끝까지 한번에 선택
+- Ctrl + Backspace : 현재 활성화 된 셀 확인
+- Ctrl + Home/End : 처음/마지막 셀로 이동
+- F5 : 이동 대화상자 실행
+- Ctrl + space : 행/열 전체 선택
+- Ctrl + 9 , Ctrl + 0 : 행/열 숨기기, 보이기
+
+
+#### alt 단축키
+- Alt P R S : 인쇄 영역 설정
+- Alt W F F : 행/열 틀 고정
+- Alt + enter : 셀 안에서 줄 바꿈
+- Alt H B A  : 선택된 범위 테두리 적용
+- Alt + Shift + → Alt + Shift + - : 범위 그룹화/그룹 해제
+ 
+#### shift 단축키
+- shift + f11 : 작업중인 시트 왼쪽으로 새로운 시트 추가
+- Shift + F10 : 팝업 메뉴 표시
+
+
 
 ## 02-1. 보기 좋은 표, 활용할 수 있는 데이터를 위한 필수 상식
 > **데이터와 표를 비교해주세요**
