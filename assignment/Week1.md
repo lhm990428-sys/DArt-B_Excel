@@ -130,32 +130,73 @@
 
 ## 02-1. 보기 좋은 표, 활용할 수 있는 데이터를 위한 필수 상식
 > **데이터와 표를 비교해주세요**
-<!-- 여기에 정리해주세요. -->
+
+- 데이터는 컴퓨터가 분석·가공하기 좋게 만든 형식이다.
+- 표는 사람이 내용을 한눈에 보기 쉽도록 시각적으로 정리한 형식이다.
+  
 
 > **셀 병합 기능을 자제해야 하는 이유를 정리해주세요.**
-<!-- 여기에 정리해주세요. -->
+
+- 범위 선택이 제한됩니다.
+- 범위의 수정/편집이 제한됩니다.
+- 표 기능과 피벗 테이블 사용이 제한됩니다.
+- 자동 채우기를 제대로 활용할 수 없습니다.
+- 데이터 정렬 기능을 사용할 수 없습니다.
+- 함수를 사용할 때 옳지 않은 결과를 반환할 수 있습니다.
 
 
 ## 02-2. 편리한 엑셀 문서 작업을 위한 실력 다지기
 > **셀 병합하지 않고 가운데 정렬하(75 ~77p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1507" height="995" alt="image" src="https://github.com/user-attachments/assets/0935859b-2010-4be2-97c4-301f4ab5b515" />
+
+<img width="1727" height="1170" alt="image" src="https://github.com/user-attachments/assets/09f0feb6-13fe-4269-aaaf-b6b8df8fa8a5" />
+
+
+<img width="1422" height="892" alt="image" src="https://github.com/user-attachments/assets/5b3f938f-4721-4711-8714-3f683169fcee" />
+
+<img width="1382" height="872" alt="image" src="https://github.com/user-attachments/assets/dec1a80d-75f9-413c-b5c1-dbc00d65bf02" />
+
+
+
 
 > **셀 병합 해제 후 빈칸 쉽게 체우기(78 ~79p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="957" height="827" alt="image" src="https://github.com/user-attachments/assets/ffaff56b-c908-4f0a-abb2-9b1e0dd709a3" />
+
+<img width="607" height="842" alt="image" src="https://github.com/user-attachments/assets/673f09e2-3097-43fa-90fa-ceef0b74562e" />
+
+<img width="537" height="836" alt="image" src="https://github.com/user-attachments/assets/fefa5793-cfd2-49c1-bb74-5285c38f5b93" />
+
 
 > **빈 셀을 한 번에 찾고 내용 입력하기(80 ~81p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="675" height="813" alt="image" src="https://github.com/user-attachments/assets/8cb0f1f4-d562-4e19-9209-679aceed5d76" />
+
+<img width="667" height="806" alt="image" src="https://github.com/user-attachments/assets/8d9aa0cc-2c7d-4f5d-9509-41ca5a57ad95" />
+
+
 
 > **숫자 데이터의 기본 단위를 한 번에 바꾸는 방법(84 ~87p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="1225" height="898" alt="image" src="https://github.com/user-attachments/assets/1d886ee0-bf0a-44d1-af53-c2b8b477efd1" />
+
+<img width="1427" height="911" alt="image" src="https://github.com/user-attachments/assets/84bc9113-1304-48ef-a16e-8018602af3f4" />
 
 
 ## 02-3. 엑셀로 시작하는 기초 데이터 분석
 > **행/열 전환하여 새로운 관점으로 데이터 살펴보기(88 ~90p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="1501" height="632" alt="image" src="https://github.com/user-attachments/assets/06983e74-138c-434a-8033-69168f204ae6" />
+
 
 > **중복된 데이터 입력 제한하기(90 ~92p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
+<img width="1621" height="956" alt="image" src="https://github.com/user-attachments/assets/92824387-d594-4c7d-9224-e3c0f61b690b" />
+
+<img width="1561" height="993" alt="image" src="https://github.com/user-attachments/assets/df70f146-54c7-4630-8749-f96746fe1c0d" />
+
+<img width="1380" height="1011" alt="image" src="https://github.com/user-attachments/assets/f2a9e26e-2e71-4e45-bae1-a7675d5ba987" />
+
 
 
 ## 02-4. 엑셀 데이터 가공을 위한 텍스트 나누고 합치기
