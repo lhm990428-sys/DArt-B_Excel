@@ -54,15 +54,19 @@
 
 ## 03-2. 실무자를 위한 셀 표시 형식 대표 예제
 > **0 지우거나 하이픈[-]으로 표시하기(119 ~121p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1527" height="948" alt="image" src="https://github.com/user-attachments/assets/7c550173-f6a5-479a-b075-46ece3a2e7db" />
+
 
 > **날짜를 년/월/일 [요일]로 표시하기(121 ~122p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1375" height="771" alt="image" src="https://github.com/user-attachments/assets/43261ad4-f049-4f37-92a4-d7b3bfccf289" />
+<img width="1347" height="766" alt="image" src="https://github.com/user-attachments/assets/018f2996-5f8c-4a2d-afa5-2d2708ffcc81" />
+
+
 
 
 ## 03-3. 깔끔한 보고서 작성을 위한 기본 규칙
 > **깔끔한 보고서 완성하기(131 ~134p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
 
 
 ## 03-4. 조건부 서식으로 빠르게 데이터 분석하기
