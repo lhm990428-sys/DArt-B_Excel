@@ -66,18 +66,22 @@
 
 ## 03-3. 깔끔한 보고서 작성을 위한 기본 규칙
 > **깔끔한 보고서 완성하기(131 ~134p)를 진행 후 인증사진을 첨부해주세요.**
+<img width="1210" height="720" alt="image" src="https://github.com/user-attachments/assets/efc4e153-c0d1-4022-a75d-5589caf19c9b" />
 
 
 
 ## 03-4. 조건부 서식으로 빠르게 데이터 분석하기
 > **특정 값보다 크거나 작을 때 강조하기(137 ~139p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1095" height="883" alt="image" src="https://github.com/user-attachments/assets/edfdfa16-606e-4814-9423-7a45a6647b48" />
+
 
 > **조건을 만족할 때 전체 행 강조하기(141 ~142p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1441" height="997" alt="image" src="https://github.com/user-attachments/assets/f498d08a-dc63-4b49-b0dd-eb1bd4dc17e1" />
+
 
 > **여러 조건에 모두 만족하는 셀 강조하기(143 ~144p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1197" height="907" alt="image" src="https://github.com/user-attachments/assets/26b07d51-1702-4d0c-b341-bff9d43d08f4" />
+
 
 
 ---
