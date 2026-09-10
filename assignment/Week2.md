@@ -45,7 +45,11 @@
 
 
 > **세미콜론으로 양수, 음수, 0, 텍스트 서식을 구분한다(115 ~ 117p)를 진행 후 인증사진을 첨부해주세요.**
+<img width="1470" height="1191" alt="image" src="https://github.com/user-attachments/assets/c2a3f1fd-f67d-46fe-8346-02ce3f52e009" />
 
+<img width="1432" height="1198" alt="image" src="https://github.com/user-attachments/assets/44db168a-e0b9-4dd5-9151-e82ddba5be27" />
+
+<img width="1627" height="1185" alt="image" src="https://github.com/user-attachments/assets/f630136f-5462-4a01-afee-4c72858495f2" />
 
 
 ## 03-2. 실무자를 위한 셀 표시 형식 대표 예제
