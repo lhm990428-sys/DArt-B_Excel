@@ -68,10 +68,15 @@
 
 > **시트 내용을 수정하지 못하도록 보호하기(186 ~190p)를 진행 후 인증사진을 첨부해주세요.**
 <img width="1917" height="1195" alt="image" src="https://github.com/user-attachments/assets/8339b81c-4d11-4f77-bfd8-56fdf8970bda" />
+
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/6ec5df5d-da48-40de-85be-2c990f527f45" />
+
 <img width="1916" height="1175" alt="image" src="https://github.com/user-attachments/assets/cee37764-e011-4a5a-a4c0-8c4af72afcc2" />
+
 <img width="1917" height="1180" alt="image" src="https://github.com/user-attachments/assets/e62a9b72-07e3-49f2-98ae-c2fa9441a3da" />
+
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/2ab7cbd0-d64e-4367-8988-a11023471981" />
+
 
 
 ## 04-6. 실무자가 반드시 알아야 할 인쇄 설정 기본
