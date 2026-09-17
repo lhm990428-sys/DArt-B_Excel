@@ -43,20 +43,31 @@
 
 ## 04-1. 1분 투자로 100점짜리 보고서 완성하기
 > **입력하는 값 & 계산되는 값 구분하기(162 ~ 163p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1911" height="1198" alt="image" src="https://github.com/user-attachments/assets/68774019-de10-4e7b-9c30-b0418f983ab2" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5c4b898c-6b48-4f14-b4bc-c9f370f9697a" />
+
 
 
 ## 04-2. 외부 통합 문서 참조할 때 발생하는 오류 처리하기
 > **외부 데이터 원본에 대한 연결 오류 해결하기(166 ~167p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1180" alt="image" src="https://github.com/user-attachments/assets/59d19497-4c8f-48b3-823e-a62b2a403061" />
+<img width="1917" height="1197" alt="image" src="https://github.com/user-attachments/assets/673c0df1-a3ce-4ab6-8fe8-bd97d06ad0c9" />
+<img width="1916" height="1198" alt="image" src="https://github.com/user-attachments/assets/8ca40efc-ebf8-49ed-86c4-a85790f56a53" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/698288ee-07c7-446a-baff-bab1fae7d500" />
+
 
 
 ## 04-5. 엑셀은 보안 측면에서 완벽한 프로그램이 아니다
 > **데이터 유효성 검사로 입력할 데이터 제한하기(179 ~183p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1193" alt="image" src="https://github.com/user-attachments/assets/d44e6f3f-b98a-4418-a99f-30fe0fbda19a" />
+<img width="1917" height="1192" alt="image" src="https://github.com/user-attachments/assets/e580b9aa-d05f-4fca-8dd4-722dd62e7245" />
+<img width="1915" height="1198" alt="image" src="https://github.com/user-attachments/assets/83dd69a3-0d17-4365-82df-63bf070b5776" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/4e4f2ea3-c86f-4272-ab39-c0435e526ea0" />
+<img width="1911" height="1187" alt="image" src="https://github.com/user-attachments/assets/e2c2f979-4538-42b4-9345-7913f9cea7fa" />
+
 
 > **시트 내용을 수정하지 못하도록 보호하기(186 ~190p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
 
 
 ## 04-6. 실무자가 반드시 알아야 할 인쇄 설정 기본
