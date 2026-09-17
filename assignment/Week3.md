@@ -81,12 +81,26 @@
 
 ## 04-6. 실무자가 반드시 알아야 할 인쇄 설정 기본
 > **해당 내용(194 ~199p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/331c3dc1-6012-4de7-bc15-3d337ffb8c75" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/a71da9de-f6f3-47c3-b49b-502c7bb249bb" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/86013543-e7ef-4f0d-a13f-f03346995bab" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/150a31ff-b6f2-45f4-bc26-39ad4cdb49a3" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/a5172fdf-9c86-41ca-a8fa-3426685b25c9" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/6bfc4695-ee60-4591-8657-85574be1f971" />
+
 
 
 ## 04-7. 여러 페이지 보고서를 인쇄할 때 확인 사항
 > **해당 내용(200 ~207p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/0c02925c-b188-41aa-9b50-99cce2eeecbe" />
+<img width="1907" height="1198" alt="image" src="https://github.com/user-attachments/assets/8931a41e-0e54-4749-ad86-4c70b376042d" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/a7b063a8-c770-4708-9580-d49d69b13548" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/d1ac3917-0b48-4eed-b5e0-c2cb7b3a089a" />
+<img width="1916" height="1178" alt="image" src="https://github.com/user-attachments/assets/6035e964-da68-4f8e-aab2-7c212e229ca7" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b9f8a591-a12f-4eea-9935-11c51f8d3da0" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/204f6954-bb0c-4f68-be20-174e79e395e1" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/aaac8751-e065-4a2e-b784-f5333cec10eb" />
+
 
 ---
 
