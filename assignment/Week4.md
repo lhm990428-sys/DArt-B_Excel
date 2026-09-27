@@ -79,18 +79,29 @@
 
 
 > **매출이익 Top 10 필터링 후 시각화하기(246 ~247p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/d3e8614d-125b-4fa7-9006-f3e9fd713212" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3816b5ac-5c92-4c23-a6ea-c22097e18d9f" />
+
+
 
 
 ## 05-6. 원본 데이터는 유지하고, 다양한 조건을 지정하는 고급 필터
 > **여러 고객사 목록을 한방에 필터링하기(251 ~254p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/8b742492-48ea-49c2-b313-3ff29110c0d6" />
+<img width="1837" height="986" alt="image" src="https://github.com/user-attachments/assets/76634b0d-d1bd-40e7-b5d7-d925c0411f75" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/33901413-298e-4cea-8f78-e371b7e14eab" />
+
 
 > **AND, OR 조건으로 고급 필터 실행하기(254 ~257p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/90e70737-b33c-49cd-b233-49706076879f" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/f8475f5b-f22d-46bd-bd87-8f7ddd57d3a7" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/11d6fffb-49b0-4b1a-a940-875bde22b133" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/4f768ca7-b87e-4740-9b17-40dccfbdf58c" />
+<img width="1917" height="1170" alt="image" src="https://github.com/user-attachments/assets/c3f6b73c-3a41-47fa-bf93-0cba9f96f07c" />
+
 
 > **원본과 다른 시트에 필터링 결과 추출하기(258 ~260p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/150aad1a-710c-4b53-bc5b-104c4c0e6979" />
 
 ---
 
