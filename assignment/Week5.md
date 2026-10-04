@@ -65,29 +65,43 @@
 
 ## 06-3. 피벗 테이블의 값 표시 형식 파악하기
 > **조건부 서식과 값 표시 형식으로 입고 내역 분석하기(300 ~304p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3b90ae29-4e65-4533-b577-f5486d258ab1" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/dbe11893-3573-467a-98fb-6a659012e099" />
+<img width="1917" height="1197" alt="image" src="https://github.com/user-attachments/assets/18380340-fef8-4bb1-8136-7538ffe2be0d" />
+
 
 > **값 표시 형식으로 입고 수량의 합계와 비율 표시하기(305 ~306p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1176" alt="image" src="https://github.com/user-attachments/assets/016d8d2f-e2b3-4f1b-94ed-ec3a768036a8" />
+
 
 
 ## 06-4. 데이터를 빠르게 집계하는 그룹 및 정렬 기능
 > **그룹 기능으로 구간별 데이터 분석하기(307 ~309p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/ad942aa2-0eaa-4d44-90d0-bfada0176867" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/289fc6b7-d441-4f97-b190-b502a5128e4d" />
+
 
 > **날짜 데이터 그룹화 및 일주일 단위로 구분하기(310 ~312p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/17d7ee3a-5a87-4f57-b1fc-b62d1cef909b" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/e2066f53-b208-488c-9998-eb79cf3ce872" />
+<img width="1917" height="1182" alt="image" src="https://github.com/user-attachments/assets/cd9f700d-f262-415b-9f97-eb393e02fc10" />
+
 
 > **필터 및 정렬 기능으로 우수 고객 빠르게 파악하기(313 ~316p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/adbd0622-c919-478c-8293-56426a633a54" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/bb4f3a2c-e6cf-42de-9ed3-4f4844293cb9" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/268c80e4-9f9c-493d-b2c2-e4973a968694" />
+
 
 
 ## 06-5. 피벗 테이블의 활용도를 높여 줄 유용한 기능
 > **계산 필드로 매출이익률 구하고 #DIV/O! 오류 해결하기(320 ~322p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1195" alt="image" src="https://github.com/user-attachments/assets/4ac4ddc7-eff0-42d3-9e31-9192d6de3ca5" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/b66c8b8c-900b-4a1c-b2d5-33dd40003bcc" />
+
 
 > **계산 항목으로 행과 열의 항목 간 계산된 값 추가하기(322 ~325p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+
 
 
 ## 06-6. 실시간 데이터 분석을 위한 슬라이서, 시간 표시 막대
