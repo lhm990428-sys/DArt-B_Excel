@@ -101,21 +101,29 @@
 
 
 > **계산 항목으로 행과 열의 항목 간 계산된 값 추가하기(322 ~325p)를 진행 후 인증사진을 첨부해주세요.**
+<img width="1917" height="1196" alt="image" src="https://github.com/user-attachments/assets/f70836e0-5a22-408b-a67c-c89083dcda77" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/90871ba0-4e4c-4fbe-9a90-bc969350f0d2" />
+
 
 
 
 ## 06-6. 실시간 데이터 분석을 위한 슬라이서, 시간 표시 막대
 > **피벗 레이블의 최강 콤비, 슬라이서 추가하기(326 ~329p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/dd6a58d2-6409-47f3-93d9-a992bb43b443" />
+
 
 > **시간 표시 막대와 슬라이서로 날짜 필터링하기(329 ~332p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/afdce2c3-531e-41a4-a034-81e064c88ebf" />
+<img width="1917" height="1187" alt="image" src="https://github.com/user-attachments/assets/834618b1-0fb5-46e9-b54a-84ad8172e4dc" />
+
 
 > **대시보드 제작을 위한 슬라이서 꾸미기(333 ~335p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1182" alt="image" src="https://github.com/user-attachments/assets/e9666015-b2c1-439a-bc8c-ce7851fcc1b8" />
+
 
 > **여러 피벗 테이블을 동시에 필터링하기(336 ~338p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1197" alt="image" src="https://github.com/user-attachments/assets/206a46e1-2dd5-4c67-8218-624fb79a7733" />
+<img width="1917" height="1193" alt="image" src="https://github.com/user-attachments/assets/a254a535-d00d-4ebd-acb6-9f2284fe8af3" />
 
 
 ---
