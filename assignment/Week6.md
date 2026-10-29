@@ -59,7 +59,9 @@
 
 
 > **SUMIF, COUNTIF, AVERAGEIF 함수로 매출, 배송 현황 관리(355 ~ 365p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1192" alt="image" src="https://github.com/user-attachments/assets/de21d2e1-95cb-4099-933b-1d467e996ec2" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5e3b3b50-227d-460d-8ab1-89b72b14865e" />
+
 
 
 ## 07-3. 엑셀의 활용도를 올려 줄 실무 보조 함수
