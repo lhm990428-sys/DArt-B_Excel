@@ -61,6 +61,9 @@
 > **SUMIF, COUNTIF, AVERAGEIF 함수로 매출, 배송 현황 관리(355 ~ 365p)를 진행 후 인증사진을 첨부해주세요.**
 <img width="1917" height="1192" alt="image" src="https://github.com/user-attachments/assets/de21d2e1-95cb-4099-933b-1d467e996ec2" />
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5e3b3b50-227d-460d-8ab1-89b72b14865e" />
+<img width="1917" height="1196" alt="image" src="https://github.com/user-attachments/assets/b8d4629e-0e6f-4f0d-b3ab-7ddd4da367ba" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/ccbd3038-28b7-406c-88e5-d5dc3bef3c3a" />
+<img width="1917" height="1186" alt="image" src="https://github.com/user-attachments/assets/bb71cf87-2362-495a-8185-4da086227ed4" />
 
 
 
