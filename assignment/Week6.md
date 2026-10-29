@@ -40,18 +40,23 @@
 
 ## 07-1. 엑셀 기초 계산 함수와 통계 함수 사용하기
 > **SUM, AVERAGE, COUNTA 함수로 재고 현황 파악하기(342 ~ 344p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/73ac071f-ddbb-4c42-a3ca-3f17b00737de" />
+
 
 > **MAX, MIN, LARGE, SMALL 함수로 만족도 통계 구하기(345 ~ 347p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1916" height="1185" alt="image" src="https://github.com/user-attachments/assets/a6a34ce9-b561-4443-97c9-e0f45802903c" />
+
 
 
 ## 07-2. 논리 함수, 참조 함수, 집계 함수
 > **IF 함수로 성적 관리하기(348 ~ 350p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1907" height="1198" alt="image" src="https://github.com/user-attachments/assets/2c2fc0f2-6e08-4b74-a972-caa95f0c9c0a" />
+
 
 > **VLOOKUP, IFERROR 함수로 재고 현황 관리하기(351 ~ 355p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1826" height="1198" alt="image" src="https://github.com/user-attachments/assets/dc551d87-5a96-4bce-bd52-afefde241c2c" />
+<img width="1917" height="1187" alt="image" src="https://github.com/user-attachments/assets/a3697437-9be2-4f2a-9924-7df63a4279f8" />
+
 
 > **SUMIF, COUNTIF, AVERAGEIF 함수로 매출, 배송 현황 관리(355 ~ 365p)를 진행 후 인증사진을 첨부해주세요.**
 <!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
