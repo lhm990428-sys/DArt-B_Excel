@@ -88,30 +88,47 @@
 
 ## 07-4. 더 강력해진 기능의 엑셀 2021 이후 버전, M365 신규 함수
 > **최신 버전 엑셀에서 배열 사용하기(391 ~ 392p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1193" alt="image" src="https://github.com/user-attachments/assets/9f4a7229-37f6-4fa7-9815-394317006e59" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/552157fe-e71f-4b7a-9ccd-0be216042700" />
+<img width="1917" height="1167" alt="image" src="https://github.com/user-attachments/assets/d616d249-6717-4059-bb29-71a93ae79394" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/8d9d172e-f9b5-4298-89ff-5ceb6fa2ced2" />
+
 
 > **VLOOKUP보다 중요한 필수 신규 함수, FILTER(393 ~ 396p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1187" alt="image" src="https://github.com/user-attachments/assets/c049760e-1775-42ca-bf02-daf0194da428" />
+<img width="1917" height="1196" alt="image" src="https://github.com/user-attachments/assets/4b4b17a7-1402-408d-9279-d4267b7c013c" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/91a2d42c-0ef7-4607-87d7-4975e899d1be" />
+
 
 > **이름만으로도 강력해 보이는 M365 신규 함수, XLOOKUP(396 ~ 398p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/feceff0c-a34d-4056-9bbb-f2d6a1570860" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/32db20b3-eb74-470e-9a6c-b196b3eeec63" />
+
 
 > **다른 기능과 만나면 활용도가 배가 되는 UNIQUE, SORT 함수(399 ~ 402p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1192" alt="image" src="https://github.com/user-attachments/assets/abb08574-68db-4ab5-83f2-03f383d803d2" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/4dc3c926-55cd-478c-9a75-583cbe10bb16" />
+
 
 
 ## 07-5. 실무에서 발생하는 어려움을 해결하는 필수 함수 공식
 > **여러 조건을 비교해서 결과 출력하기, 다중 조건 IF 함수(403 ~ 407p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/1b8cd92d-dc14-4e35-a65e-b36a5340b6ea" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/2eacfd36-07b6-4300-98a2-914723ce0f3f" />
 
 > **단어의 포함 여부를 검색하는 ISNUMBER, SEARCH 함수 공식(407 ~ 411p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/d5fec603-d62e-4833-8e56-0aca6c980d25" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/a46ea564-6522-48c6-9600-143079ac852b" />
+
 
 > **VLOOKUP 함수의 단점을 해결해 주는 INDEX/MATCH 함수 공식(412 ~ 415p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/5a01030d-6f5f-499f-a6db-75719ad07b9e" />
+
 
 > **여러 조건을 만족하는 결과 겁색하기, VLOOKUP 다중 조건 공식(415 ~ 417p)를 진행 후 인증사진을 첨부해주세요.**
-<!-- 이 부분을 지우고 인증사진을 제출해주세요.-->
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3126cdcb-dd40-4789-ae94-6519a39b8b04" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c5c6a6ea-87c2-4ac3-84c0-f6811e0866ba" />
+
 
 
 ---
